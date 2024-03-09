@@ -9,6 +9,7 @@
     border-radius: 10px;
     border: 0;
     cursor: pointer;
+    transition-duration: 0.5s;
 }
 .btn:hover{
     translate: 0px -8px;

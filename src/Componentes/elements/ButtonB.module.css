@@ -9,6 +9,7 @@
     font-weight: bold;
     font-size: 15px;
     cursor: pointer;
+    transition-duration: 0.5s;
 }
 
 .btnB:hover{
