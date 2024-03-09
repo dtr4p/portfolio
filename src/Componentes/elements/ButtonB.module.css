@@ -1,0 +1,19 @@
+.btnB{
+    border-color: aliceblue;
+    color: aliceblue;
+    font-family: 'Inter';
+    padding: 10px;
+    border-radius: 10px;
+    background-color: transparent;
+    border: 1px solid;
+    font-weight: bold;
+    font-size: 15px;
+    cursor: pointer;
+}
+
+.btnB:hover{
+    translate: 0px -8px;
+    background-color: #01091C;
+    color: aliceblue;
+    transition-duration: 0.5s;
+}

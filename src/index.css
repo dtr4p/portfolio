@@ -1,0 +1,10 @@
+body {
+  font-family: 'Inter';
+  background-image: url(./Images/bgImage.svg);
+  color: aliceblue;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
